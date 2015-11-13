@@ -1,2 +1,3 @@
 # workshop
-HackUTD Workshop Stuff
+HackUTD Workshop
+Instructor: Tedge and Izu
